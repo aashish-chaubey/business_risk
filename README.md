@@ -55,16 +55,7 @@ As this is a regression problem, I started with the baseline model, `linear regr
 
 I get the following results:
 
-<img src="visualization_images/results.png" alt="drawing" width="100" /> 
-
-<style type="text/css">
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style> 
+![Results](visualization_images/results.png)
 
 </br>
 
