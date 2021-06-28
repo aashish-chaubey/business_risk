@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 
 ASSIGNMENT - DS.pdf
-visualization_images/results.png
 assignment_data/assignment_predicted.csv
 .DS_Store
